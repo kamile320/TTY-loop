@@ -7,7 +7,7 @@ Maybe also works with GUI but i didn't checked this.<br>
 Every Instructions what to do next after running sysctladd.py you'll see in-script ("print()" responses).<br>
 
 REMEMBER!
-I recommend to put this files into main directory (eg. /nohome  or  /TTYloop) with 777 permissions in chmod (after creating autorun.sh).
+I recommend to put this files into main directory (eg. /nohome  or  /TTYloop) with 777 or 775 permissions in chmod (after creating autorun.sh; files must be executable!).
 
 Program uses root permissions:
 - chmod files (chmod -R 777 /directory)
