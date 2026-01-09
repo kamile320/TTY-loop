@@ -2,8 +2,8 @@
 "Funny" Script
 
 Creates autorun.sh and adds it to systemctl.<br>
-autorun.sh turns on python script that loops tX.sh files changing actual terminals (TTY) in Linux without GUI.<br>
-Maybe also works with GUI but i didn't checked this.<br>
+autorun.sh turns on python script that loops tX.sh files changing current terminals (TTY) in Linux without GUI.<br>
+May also works with GUI but I haven't tried this.<br>
 Every Instructions what to do next after running sysctladd.py you'll see in-script ("print()" responses).<br>
 
 REMEMBER!
